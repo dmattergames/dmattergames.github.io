@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to DMatter Games!
-    text: We make the games we'd love to play
+    title: 
+    text: Your dream games come true
     button: About Us
     buttonlink: "#services"
 
@@ -25,7 +25,7 @@ en: &DEFAULT_EN
         desc: "Console game development is the process of creating commercialized video games for consoles. We have developed games for the Nintendo Switch, Microsoft’s Xbox One, and Sony’s PlayStation."
         icon: fas fa-thin fa-game-console-handheld #find more at https://fontawesome.com/icons
       - title: "Video game art, design and Animation"
-        desc: "At The DMatter Games, we believe that high-quality game art production is essential to the success of any video game. Our team of experienced artists specializes in creating arresting visual elements and Video game characters that bring the game world to life."
+        desc: "At DMatter Games, we believe that high-quality game art production is essential to the success of any video game. Our team of experienced artists specializes in creating arresting visual elements and Video game characters that bring the game world to life."
         icon: fas fa-solid fa-palette
       - title: "Video Game Porting and Migration"
         desc: "As video game programming has become more complex, development teams have increasingly relied on game engines to streamline the process. We specialize in porting and migrating games to new platforms. "
@@ -34,12 +34,12 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "Our Story"
-    body: "DMatter Games is a game development company. We’ve been in the game industry for over 10 years and have worked on several games for play station and xbox. We’re currently working on prototypes for several new Unity games. We’re a dedicated team of highly skilled game developers who are passionate about making great games. We’re constantly innovating and expanding our skillset to create the best games possible."
+    body: "DMatter Games is a game development company. We’re currently working on prototypes for several new Unity games. We’re a dedicated team of highly skilled game developers who are passionate about making great games. We’re constantly innovating and expanding our skillset to create the best games possible."
     section: about
 
   contact:
     title: "Contact Us"
-    text: "Whether you need a mobile app or a particular game solution, every venture starts with a simple email or phone call. Fill in the following information and we will get in touch within 1 business day."
+    text: "Whether you need a mobile app or a particular game solution, every venture starts with a simple email or phone call. Fill in the following information and we will get in touch as soon as possible."
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
