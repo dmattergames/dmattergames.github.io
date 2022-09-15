@@ -18,12 +18,12 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Game Development Services"
     section: services
     list:
       - title: "Console Game Development"
         desc: "Console game development is the process of creating commercialized video games for consoles. We have developed games for the Nintendo Switch, Microsoft’s Xbox One, and Sony’s PlayStation."
-        icon: fas fa-game-console-handheld #find more at https://fontawesome.com/icons
+        icon: fas fa-thin fa-game-console-handheld #find more at https://fontawesome.com/icons
       - title: "Video game art, design and Animation"
         desc: "At The DMatter Games, we believe that high-quality game art production is essential to the success of any video game. Our team of experienced artists specializes in creating arresting visual elements and Video game characters that bring the game world to life."
         icon: fas fa-solid fa-palette
@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
+    text: "Our Story"
     body: "DMatter Games is a game development company. We’ve been in the game industry for over 10 years and have worked on several games for play station and xbox. We’re currently working on prototypes for several new Unity games. We’re a dedicated team of highly skilled game developers who are passionate about making great games. We’re constantly innovating and expanding our skillset to create the best games possible."
     section: about
 
