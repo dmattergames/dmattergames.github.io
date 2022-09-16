@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "Console Game Development"
         desc: "Console game development is the process of creating commercialized video games for consoles. We have developed games for the Nintendo Switch, Microsoft’s Xbox One, and Sony’s PlayStation."
-        icon: fas fa-thin fa-game-console-handheld #find more at https://fontawesome.com/icons
+        icon: fas fa-regular fa-gamepad #find more at https://fontawesome.com/icons
       - title: "Video game art, design and Animation"
         desc: "At DMatter Games, we believe that high-quality game art production is essential to the success of any video game. Our team of experienced artists specializes in creating arresting visual elements and Video game characters that bring the game world to life."
         icon: fas fa-solid fa-palette
@@ -53,7 +53,7 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
-#    legal: "Privacy Policy"
+    legal: 
 #    social:
 
 en-US:
